@@ -60,12 +60,21 @@ Esa es la URL que debe usar el script.
 5.1 Dar permisos de ejecución
 
 ```chmod +x convert_to_epub.sh```
+
 5.2 Lanzar el script
-para esto vamos a necesitar abrir git bash y correr el archivo sh en la carpeta donde dejaste el codigo. Si descargaste el zip en chrome podes posicionarte en la carpeta download con el siguiente comando:
+
+para esto vamos a necesitar abrir git bash y correr el archivo sh en la carpeta donde dejaste el codigo.
+
+Si descargaste el zip en chrome podes posicionarte en la carpeta download con el siguiente comando:
+
 ```cd Downloads```
+
 y luego ejecutamos
+
 ```./convert_to_epub.sh```
+
 esto va a correr y armar las 16 lecturas de epub:
+
 ![Cómo obtener la URL del iframe](![Cómo obtener la URL del iframe](https://raw.githubusercontent.com/sanchocreativo/siglo21-lectura-canva-toepub/main/Screenshot%202025-05-04%20132019.png))
 
 ##  🚀 Paso 5 Enviar al Kindle
