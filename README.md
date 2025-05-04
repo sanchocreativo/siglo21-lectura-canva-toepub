@@ -75,7 +75,7 @@ y luego ejecutamos
 
 esto va a correr y armar las 16 lecturas de epub:
 
-![Cómo obtener la URL del iframe](![Cómo obtener la URL del iframe](https://raw.githubusercontent.com/sanchocreativo/siglo21-lectura-canva-toepub/main/Screenshot%202025-05-04%20132019.png))
+![codigo corrido](https://raw.githubusercontent.com/sanchocreativo/siglo21-lectura-canva-toepub/refs/heads/main/Untitled.png)
 
 ##  🚀 Paso 5 Enviar al Kindle
 
