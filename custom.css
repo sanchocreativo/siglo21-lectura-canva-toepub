@@ -1,0 +1,19 @@
+/* Make the title h1 bigger and centered */
+h1 {
+    font-size: 4em;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 20vh;
+    white-space: pre-line;
+  }
+
+  /* Center title vertically using body styling */
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   /* vertical center */
+    align-items: center;       /* horizontal center */
+    height: 100vh;
+    margin: 0;
+    flex-wrap: wrap;
+  }
