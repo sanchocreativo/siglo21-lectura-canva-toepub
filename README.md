@@ -25,12 +25,14 @@ Ideal para estudiar desde el celular, organizar el material por módulos y evita
 
 ## 📦 Paso 1 – Clonar el repositorio
 
-```bash
+```
 git clone https://github.com/sanchocreativo/siglo21-lectura-canva-toepub.git
 cd siglo21-lectura-canva-toepub
+```
+
 ⚙️ Paso 2 – Verificar que Pandoc funcione
 
-pandoc --version
+```pandoc --version```
 Si ves la versión, ¡todo OK! ✅
 
 🔎 Paso 3 – Conseguir la URL real (iframe)
@@ -43,9 +45,9 @@ Clic derecho → Inspeccionar (o F12).
 Encontrá la línea con <iframe src="...">:
 ([foto](https://raw.githubusercontent.com/sanchocreativo/siglo21-lectura-canva-toepub/refs/heads/main/Screenshot%202025-05-04%20132019.png))
 
-html
 
-<iframe src="https://meca.ues21.edu.ar/canvas/0GRADO1A24/tipografia1/L1/index.html">
+
+```<iframe src="https://meca.ues21.edu.ar/canvas/0GRADO1A24/tipografia1/L1/index.html">```
 Copiá la URL completa de src.
 Esa es la URL que debe usar el script.
 
@@ -54,10 +56,10 @@ Esa es la URL que debe usar el script.
 🚀 Paso 5 – Ejecutar el script
 5.1 Dar permisos de ejecución
 
-chmod +x convert_to_epub.sh
+```chmod +x convert_to_epub.sh```
 5.2 Lanzar el script
 
-./convert_to_epub.sh
+```./convert_to_epub.sh```
 
 Enviar al Kindle
 
