@@ -30,12 +30,12 @@ git clone https://github.com/sanchocreativo/siglo21-lectura-canva-toepub.git
 cd siglo21-lectura-canva-toepub
 ```
 
-⚙️ Paso 2 – Verificar que Pandoc funcione
+## ⚙️ Paso 2 – Verificar que Pandoc funcione
 
 ```pandoc --version```
 Si ves la versión, ¡todo OK! ✅
 
-🔎 Paso 3 – Conseguir la URL real (iframe)
+##  🔎 Paso 3 – Conseguir la URL real (iframe)
 Canvas muestra la lectura dentro de un iframe, por eso la URL del navegador no sirve.
 
 Abrí la lectura del módulo.
@@ -52,8 +52,7 @@ Copiá la URL completa de src.
 Esa es la URL que debe usar el script.
 
 
-
-🚀 Paso 5 – Ejecutar el script
+##  🚀 Paso 4 – Ejecutar el script
 5.1 Dar permisos de ejecución
 
 ```chmod +x convert_to_epub.sh```
@@ -61,7 +60,7 @@ Esa es la URL que debe usar el script.
 
 ```./convert_to_epub.sh```
 
-Enviar al Kindle
+##  🚀 Paso 5 Enviar al Kindle
 
 Mandá el .epub a tu dirección @kindle.com
 O usá la app oficial Send to Kindle
