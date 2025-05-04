@@ -3,6 +3,9 @@
 Convierte las lecturas del campus virtual de la **Universidad Siglo 21** a **formato EPUB** para leer sin conexión o enviarlas a tu Kindle / e‑reader.  
 Ideal para estudiar desde el celular, organizar el material por módulos y evitar depender de la conexión.
 
+![Preview](https://raw.githubusercontent.com/sanchocreativo/siglo21-lectura-canva-toepub/refs/heads/main/Screenshot%202025-05-04%20144217.png)
+
+
 ---
 
 ## ✅ ¿Qué hace este proyecto?
