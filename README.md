@@ -43,7 +43,7 @@ Abrí la lectura del módulo.
 Clic derecho → Inspeccionar (o F12).
 
 Encontrá la línea con <iframe src="...">:
-!([foto](https://raw.githubusercontent.com/sanchocreativo/siglo21-lectura-canva-toepub/refs/heads/main/Screenshot%202025-05-04%20132019.png))
+![Cómo obtener la URL del iframe](https://raw.githubusercontent.com/sanchocreativo/siglo21-lectura-canva-toepub/main/Screenshot%202025-05-04%20132019.png)
 
 
 
